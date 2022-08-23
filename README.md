@@ -1,2 +1,3 @@
 # Google-404
-Note: Not official google 404 page
+**Note:** not official google 404 page and only made for **educational purposes** xD
+
